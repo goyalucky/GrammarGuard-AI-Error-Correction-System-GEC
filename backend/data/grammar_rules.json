@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rule_sva_singular_third_person",
+    "category": "subject_verb_agreement",
+    "title": "Third-Person Singular Present Agreement",
+    "description": "In the present tense, third-person singular subjects (he, she, it, singular nouns) require verbs ending in -s or -es (e.g., 'does', 'writes', 'goes'). The negative auxiliary is 'does not' or 'doesn't', never 'don't'.",
+    "examples": {
+      "incorrect": "He don't know the answer.",
+      "correct": "He doesn't know the answer."
+    },
+    "pedagogical_tip": "Check if the subject is singular (he/she/it). If yes, pair it with 'does' / 'doesn't'."
+  },
+  {
+    "id": "rule_verb_tense_past_simple",
+    "category": "verb_tense",
+    "title": "Past Simple with Explicit Time Markers",
+    "description": "When an action was completed in the past and is accompanied by a past time indicator (e.g., 'yesterday', 'last week', 'in 2020'), use the simple past tense form of the verb rather than the base or present form.",
+    "examples": {
+      "incorrect": "She go to the store yesterday.",
+      "correct": "She went to the store yesterday."
+    },
+    "pedagogical_tip": "Watch for past time adverbs like 'yesterday' or 'ago' and conjugate the main verb to simple past."
+  },
+  {
+    "id": "rule_articles_indefinite_vowel",
+    "category": "articles",
+    "title": "Indefinite Article Selection (A vs. An)",
+    "description": "Use 'a' before words starting with a consonant sound, and 'an' before words starting with a vowel sound.",
+    "examples": {
+      "incorrect": "She bought a apple.",
+      "correct": "She bought an apple."
+    },
+    "pedagogical_tip": "Base article choice on the spoken initial sound, not just the written letter."
+  },
+  {
+    "id": "rule_plural_noun_agreement",
+    "category": "word_order",
+    "title": "Quantifier and Plural Noun Concord",
+    "description": "Cardinal numbers greater than one (two, three, etc.) and plural determiners (several, many) require plural countable nouns.",
+    "examples": {
+      "incorrect": "He ordered three coffee cup.",
+      "correct": "He ordered three coffee cups."
+    },
+    "pedagogical_tip": "Verify that countable nouns following numbers > 1 carry their plural inflection (-s or -es)."
+  },
+  {
+    "id": "rule_preposition_direction_location",
+    "category": "prepositions",
+    "title": "Directional and Positional Prepositions",
+    "description": "Verbs of motion such as 'go', 'travel', or 'walk' take 'to' when indicating destination, whereas stationary actions take 'at' or 'in'.",
+    "examples": {
+      "incorrect": "We arrived to the station.",
+      "correct": "We arrived at the station."
+    },
+    "pedagogical_tip": "Use 'to' with movements toward a target; use 'at' or 'in' for fixed locations."
+  }
+]

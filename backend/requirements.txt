@@ -1,0 +1,17 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+torch>=2.2.0
+transformers>=4.38.0
+sentencepiece>=0.2.0
+python-dotenv>=1.0.1
+langgraph 
+langchain-core
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+sqlalchemy>=2.0.0
+nltk>=3.8.0
+tabulate>=0.9.0
